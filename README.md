@@ -219,3 +219,8 @@ This project demonstrates more than basic Azure deployment. It shows practical u
 Cloud and Infrastructure Learner focused on Azure administration, networking, and secure enterprise environments.
 
 I built this project as part of my hands-on Azure networking practice to strengthen my skills in virtual network connectivity, traffic control, and secure cloud infrastructure design.
+
+## Copyright Notice
+Copyright (c) 2026 Yousef Abader. All rights reserved.
+
+This repository is published for portfolio and demonstration purposes only. No permission is granted to copy, reuse, modify, redistribute, or republish any part of this work without prior written permission from the author.
